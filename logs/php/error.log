@@ -1,0 +1,36 @@
+[22-Oct-2020 16:47:58 UTC] PHP Parse error:  syntax error, unexpected 'the_title' (T_STRING) in C:\Users\drive\Local Sites\integrum\app\public\wp-content\themes\integrum\index.php on line 5
+[22-Oct-2020 16:51:17 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\drive\Local Sites\integrum\app\public\wp-content\themes\integrum\index.php on line 6
+[22-Oct-2020 17:54:06 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\drive\Local Sites\integrum\app\public\wp-content\themes\integrum\footer.php on line 1
+[22-Oct-2020 17:54:28 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\drive\Local Sites\integrum\app\public\wp-content\themes\integrum\footer.php on line 1
+[22-Oct-2020 17:55:53 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\drive\Local Sites\integrum\app\public\wp-content\themes\integrum\footer.php on line 1
+[22-Oct-2020 17:55:54 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\drive\Local Sites\integrum\app\public\wp-content\themes\integrum\footer.php on line 1
+[22-Oct-2020 17:55:55 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\drive\Local Sites\integrum\app\public\wp-content\themes\integrum\footer.php on line 1
+[22-Oct-2020 17:55:56 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\drive\Local Sites\integrum\app\public\wp-content\themes\integrum\footer.php on line 1
+[22-Oct-2020 19:47:48 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_script' (T_STRING) in C:\Users\drive\Local Sites\integrum\app\public\wp-content\themes\integrum\functions.php on line 46
+[22-Oct-2020 19:47:51 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_script' (T_STRING) in C:\Users\drive\Local Sites\integrum\app\public\wp-content\themes\integrum\functions.php on line 46
+[22-Oct-2020 19:48:04 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_script' (T_STRING) in C:\Users\drive\Local Sites\integrum\app\public\wp-content\themes\integrum\functions.php on line 46
+[22-Oct-2020 19:50:04 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_script' (T_STRING) in C:\Users\drive\Local Sites\integrum\app\public\wp-content\themes\integrum\functions.php on line 46
+[22-Oct-2020 19:50:50 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_script' (T_STRING) in C:\Users\drive\Local Sites\integrum\app\public\wp-content\themes\integrum\functions.php on line 50
+[22-Oct-2020 19:50:51 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_script' (T_STRING) in C:\Users\drive\Local Sites\integrum\app\public\wp-content\themes\integrum\functions.php on line 50
+[22-Oct-2020 19:51:12 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'webflow_assets_js' not found or invalid function name in C:\Users\drive\Local Sites\integrum\app\public\wp-includes\class-wp-hook.php on line 287
+[22-Oct-2020 19:51:12 UTC] PHP Stack trace:
+[22-Oct-2020 19:51:12 UTC] PHP   1. {main}() C:\Users\drive\Local Sites\integrum\app\public\index.php:0
+[22-Oct-2020 19:51:12 UTC] PHP   2. require() C:\Users\drive\Local Sites\integrum\app\public\index.php:17
+[22-Oct-2020 19:51:12 UTC] PHP   3. require_once() C:\Users\drive\Local Sites\integrum\app\public\wp-blog-header.php:19
+[22-Oct-2020 19:51:12 UTC] PHP   4. include() C:\Users\drive\Local Sites\integrum\app\public\wp-includes\template-loader.php:106
+[22-Oct-2020 19:51:12 UTC] PHP   5. get_header() C:\Users\drive\Local Sites\integrum\app\public\wp-content\themes\integrum\index.php:2
+[22-Oct-2020 19:51:12 UTC] PHP   6. locate_template() C:\Users\drive\Local Sites\integrum\app\public\wp-includes\general-template.php:48
+[22-Oct-2020 19:51:12 UTC] PHP   7. load_template() C:\Users\drive\Local Sites\integrum\app\public\wp-includes\template.php:676
+[22-Oct-2020 19:51:12 UTC] PHP   8. require_once() C:\Users\drive\Local Sites\integrum\app\public\wp-includes\template.php:730
+[22-Oct-2020 19:51:12 UTC] PHP   9. wp_head() C:\Users\drive\Local Sites\integrum\app\public\wp-content\themes\integrum\header.php:24
+[22-Oct-2020 19:51:12 UTC] PHP  10. do_action() C:\Users\drive\Local Sites\integrum\app\public\wp-includes\general-template.php:3006
+[22-Oct-2020 19:51:12 UTC] PHP  11. WP_Hook->do_action() C:\Users\drive\Local Sites\integrum\app\public\wp-includes\plugin.php:478
+[22-Oct-2020 19:51:12 UTC] PHP  12. WP_Hook->apply_filters() C:\Users\drive\Local Sites\integrum\app\public\wp-includes\class-wp-hook.php:311
+[22-Oct-2020 19:51:12 UTC] PHP  13. wp_enqueue_scripts() C:\Users\drive\Local Sites\integrum\app\public\wp-includes\class-wp-hook.php:287
+[22-Oct-2020 19:51:12 UTC] PHP  14. do_action() C:\Users\drive\Local Sites\integrum\app\public\wp-includes\script-loader.php:1999
+[22-Oct-2020 19:51:12 UTC] PHP  15. WP_Hook->do_action() C:\Users\drive\Local Sites\integrum\app\public\wp-includes\plugin.php:478
+[22-Oct-2020 19:51:12 UTC] PHP  16. WP_Hook->apply_filters() C:\Users\drive\Local Sites\integrum\app\public\wp-includes\class-wp-hook.php:311
+[22-Oct-2020 19:53:03 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_script' (T_STRING) in C:\Users\drive\Local Sites\integrum\app\public\wp-content\themes\integrum\functions.php on line 50
+[22-Oct-2020 20:06:15 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\drive\Local Sites\integrum\app\public\wp-content\themes\integrum\functions.php on line 66
+[22-Oct-2020 20:15:17 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\drive\Local Sites\integrum\app\public\wp-content\themes\integrum\index.php on line 5
+[23-Oct-2020 22:15:47 UTC] PHP Parse error:  syntax error, unexpected '" loading="' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in C:\Users\drive\Local Sites\integrum\app\public\wp-content\themes\integrum\header.php on line 47
